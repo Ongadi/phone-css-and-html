@@ -1,0 +1,152 @@
+body{
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+}
+
+p{
+  font-family: 'Merriweather', serif;
+}
+.tri1 {
+  border-radius: 30px;
+  background-color: black;
+  height: 500px;
+  margin: 100px 100px 100px 400px;
+  position: relative;
+  width: 240px;
+}
+
+.tri2 {
+  border-radius: 10px;
+  background-color: white;
+  height: 440px;
+  margin-left: 5px;
+  position: absolute;
+  top: 15px;
+  width: 230px;
+}
+
+.button1{
+  background-color: black;
+  border-radius: 5px;
+  bottom: 380px;
+  height: 30px;
+  left: 238px;
+  position: absolute;
+  width: 5px;
+
+}
+.button2{
+  background-color: black;
+  border-radius: 5px;
+  bottom: 300px;
+  height: 20px;
+  left: 238px;
+  position: absolute;
+  width: 5px;
+}
+
+.button3{
+  background-color: black;
+  border-radius: 5px;
+  bottom: 340px;
+  height: 30px;
+  left: 238px;
+  position: absolute;
+  width: 5px;
+
+}
+
+.circle1 {
+  background-color: white;
+  border-radius: 20px;
+  height: 20px;
+  width: 60px;
+  position: absolute;
+  left: 90px;
+  bottom: 15px;
+}
+
+.circle2 {
+  background-color: black;
+  border-radius: 10px;
+  height: 20px;
+  width: 20px;
+  position: absolute;
+  left: 10px;
+  bottom: 460px;
+}
+.circle3 {
+  background-color: white;
+  border-radius: 8px;
+  height: 16px;
+  width: 16px;
+  position: absolute;
+  left: 12px;
+  bottom: 462px;
+}
+
+.circle4{
+background-color: grey;
+border-radius: 50px;
+height: 100px;
+width: 100px;
+position: absolute;
+left: 68px;
+bottom: 250px;
+}
+
+.circle5{
+background-color: white;
+border-radius: 20px;
+height: 40px;
+width: 40px;
+position: absolute;
+left: 30px;
+bottom: 40px;
+}
+
+.circle6{
+background-color: white;
+border-radius: 35px;
+height: 70px;
+width: 70px;
+position: absolute;
+left: 84px;
+bottom: 230px;
+}
+
+.circle7{
+background-color: red;
+border-radius: 20px;
+height: 40px;
+width: 40px;
+position: absolute;
+left: 15px;
+bottom: 20px;
+}
+
+.circle8{
+background-color: green;
+border-radius: 20px;
+height: 40px;
+width: 40px;
+position: absolute;
+left: 175px;
+bottom: 20px;
+}
+
+.phone{
+  text-align: center;
+  padding-top: 180px;
+}
+
+.call{
+  margin-top: 0;
+}
+
+.mum{
+  margin-bottom: 0;
+}
